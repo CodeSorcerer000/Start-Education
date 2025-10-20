@@ -38,7 +38,7 @@ if ($result) {
 
     <header id="header">
         <div class="header-content">
-            <div class="logo">Start Education</div>
+            <div class="logo"><a href="index.php">Start Education</a></div>
             <nav>
                 <a href="index.php">home</a>
                 <a href="view_courses.php">courses</a>
